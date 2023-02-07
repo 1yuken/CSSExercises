@@ -1,30 +1,30 @@
 #elem {
-	border-width: 5px;    /* толщина 3px */
-	border-style: solid;  /* в виде линии */
-	border-color: blue;    /* красный цвет */
+	border-width: 5px;
+	border-style: solid;
+	border-color: blue;
 	width: 300px;
 	height: 200px;
 }
 
 #elem2 {
-	border-width: 5px;    /* толщина 3px */
-	border-style: dotted;  /* в виде линии */
-	border-color: red;    /* красный цвет */
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
 	width: 300px;
 	height: 200px;
 }
 
 #elem3 {
-	border-width: 2px;    /* толщина 3px */
-	border-style: dashed;  /* в виде линии */
-	border-color: orange;    /* красный цвет */
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
 	width: 300px;
 	height: 200px;
 }
 #elem4 {
-	border-width: 10px;    /* толщина 3px */
-	border-style: double;  /* в виде линии */
-	border-color: blue;    /* красный цвет */
+	border-width: 10px;
+	border-style: double;
+	border-color: blue; 
 	width: 300px;
 	height: 200px;
 }
