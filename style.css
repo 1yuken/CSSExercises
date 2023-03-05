@@ -1,10 +1,11 @@
 .parent {
-    height: 120px;
 	border: 1px solid red;
 	text-align: justify;
+    height: 120px;
 }
 .child {
-	float: left;
+	bottom: 100px;
+	float: right;
 	width: 200px;
 	height: 100px;
 	border: 1px solid green;
